@@ -1,1 +1,3 @@
-# 42-Project
+# 42-Libft
+Libft (Library of Functions)
+
